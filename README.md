@@ -40,7 +40,7 @@ This filter aims to:
 ## Usage
 
 Add to AdGuard / DNS Filtering
-#### [Copy this link](https://github.com/mchany/CN-Tracker-DNS-Filter/blob/7c4380ae896ae56f47a0afd8ec7050cc7d2b32b8/CN%20Tracker%20DNS%20Filter.txt)
+#### [Copy this link](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/7c4380ae896ae56f47a0afd8ec7050cc7d2b32b8/CN%20Tracker%20DNS%20Filter.txt)
 
 
 ## Known Issues
