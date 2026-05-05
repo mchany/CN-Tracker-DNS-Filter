@@ -1,5 +1,7 @@
 # CN Tracker DNS Filter
 
+[🇺🇸English/영어](./README.md)
+
 ## 개요
 
 CN Tracker DNS Filter는 Alibaba, Tencent, Baidu, ByteDance와 같은 주요 플랫폼에서 사용하는 중국계 추적, 광고, 텔레메트리 도메인을 대상으로 하는 DNS 레벨 차단 필터이다.
