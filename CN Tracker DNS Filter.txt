@@ -3,8 +3,7 @@
 ! Last modified: 5 May 2026 14:13 UTC 
 ! Version: 1.1
 ! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
-! License: https://github.com/mchany/CN-Tracker-DNS-Filter/main/LICENSE
-! Number of entries: 57
+! License: https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/LICENSE
 !
 ||alimama.com^
 ||mmstat.com^
