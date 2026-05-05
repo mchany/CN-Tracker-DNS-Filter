@@ -1,0 +1,64 @@
+! Title: CN Tracker DNS Filter
+! Description: Blocks Chinease trackers (Alibaba, Tencent, etc)
+! Last modified: 5 May 2026 08:54 UTC 
+! Version: 1.0
+! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
+! Number of entries: 57
+!
+||alimama.com^
+||mmstat.com^
+||tanx.com^
+||atanx.alicdn.com^
+||adashx.m.taobao.com^
+||adashx.ut.taobao.com^
+||adashbc.m.taobao.com^
+||log.mmstat.com^
+||gm.mmstat.com^
+||stat.mmstat.com^
+||wgo.mmstat.com^
+||acjs.aliyun.com^
+||data.aliyun.com^
+||fourier.taobao.com^
+||tencent.com^
+||qq.com^
+||gtimg.com^
+||idqqimg.com^
+||qpic.cn^
+||ad.tencent.com^
+||ads.tencent.com^
+||adsmind.gdtimg.com^
+||pgdt.gtimg.cn^
+||gdt.qq.com^
+||cm.e.qq.com^
+||p.tencentmind.com^
+||pingma.qq.com^
+||pingjs.qq.com^
+||report.qq.com^
+||stat.qq.com^
+||log.tencent.com^
+||log.qq.com^
+||monitor.qq.com^
+||trace.qq.com^
+||beacon.qq.com^
+||analytics.tencent.com^
+||otheve.beacon.qq.com^
+||btrace.qq.com^
+||sdkconfig.ad.qq.com^
+||cfg.imtt.qq.com^
+||umeng.com^
+||umengcloud.com^
+||cnzz.com^
+||zz.bdstatic.com^
+||bdstatic.com^
+||hm.baidu.com^
+||pos.baidu.com^
+||miui.com^
+||tracking.miui.com^
+||data.mistat.xiaomi.com^
+||tendcloud.com^
+||talkingdata.com^
+||meituan.net^
+||dianping.com^
+||byteoversea.com^
+||ibytedtos.com^
+||is.snssdk.com^
