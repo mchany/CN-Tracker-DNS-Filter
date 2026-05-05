@@ -1,6 +1,6 @@
 ! Title: CN Tracker DNS Filter
 ! Description: Blocks Chinease trackers (Alibaba, Tencent, etc)
-! Version: 1.1
+! Version: 2
 ! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
 ! License: https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/LICENSE
 !
@@ -61,3 +61,27 @@
 ||byteoversea.com^
 ||ibytedtos.com^
 ||is.snssdk.com^
+||growingio.com^
+||growingio.net^
+||tendcloud.com^
+||talkingdata.net^
+||umtrack.com^
+||umeng.co^
+||pangle.io^
+||pangleglobal.com^
+||pangolin-sdk-toutiao.com^
+||ads.pangle.io^
+||tnc3-aliec2.byteoversea.com^
+||tnc16-aliec2.byteoversea.com^
+||tnc0-aliec2.byteoversea.com^
+||yangkeduo.com^
+||pinduoduo.com^
+||pddpic.com^
+||pddcdn.com^
+||pddimg.com^
+||pddstatic.com^
+||pddcloud.com^
+||mobile.yangkeduo.com^
+||api.yangkeduo.com^
+||log.yangkeduo.com^
+||monitor.yangkeduo.com^
