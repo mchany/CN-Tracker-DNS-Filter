@@ -1,7 +1,7 @@
 ! Title: CN Tracker DNS Filter
 ! Description: Blocks Chinease trackers (Alibaba, Tencent, etc)
 ! Last modified: 5 May 2026 14:13 UTC 
-! Version: 1.0
+! Version: 1.1
 ! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
 ! License: https://github.com/mchany/CN-Tracker-DNS-Filter/blob/9d9b7ab86cb74c6d008727bb307d393a6435ceb5/LICENSE
 ! Number of entries: 57
