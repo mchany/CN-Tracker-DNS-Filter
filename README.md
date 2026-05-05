@@ -1,5 +1,7 @@
 # CN Tracker DNS Filter
 
+---
+
 ## Overview
 
 CN Tracker DNS Filter is a DNS-level blocklist designed to target Chinese tracking, advertising, and telemetry domains used by major platforms such as Alibaba, Tencent, Baidu, and ByteDance.
