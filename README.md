@@ -1,6 +1,5 @@
 # CN Tracker DNS Filter
 
----
 
 ## Overview
 
@@ -8,7 +7,6 @@ CN Tracker DNS Filter is a DNS-level blocklist designed to target Chinese tracki
 
 It is intended as a supplementary filter, not a replacement for general-purpose adblocking lists.
 
----
 
 ## Purpose
 
@@ -19,7 +17,6 @@ This filter aims to:
 - Mitigate redirect-based tracking
 - Enhance privacy beyond default DNS filters
 
----
 
 ## Scope
 
@@ -37,7 +34,6 @@ This filter aims to:
 - Cosmetic filtering (not applicable at DNS level)
 - General website-specific rules
 
----
 
 ## Usage
 
@@ -45,7 +41,6 @@ Add to AdGuard / DNS Filtering
 
 ### [Copy this link](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/CN%20Tracker%20DNS%20Filter.txt)
 
----
 
 ## Known Issues
 
@@ -57,7 +52,6 @@ Blocking certain domains may cause partial breakage:
 
 Users may need to whitelist specific domains depending on usage.
 
----
 
 ## Disclaimer
 
