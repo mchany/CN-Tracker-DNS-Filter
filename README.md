@@ -1,5 +1,7 @@
 # CN Tracker DNS Filter
 
+[🇰🇷한국어/Korean](./README.ko.md)
+
 
 ## Overview
 
