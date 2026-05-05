@@ -39,7 +39,7 @@ CN Tracker DNS Filter는 Alibaba, Tencent, Baidu, ByteDance와 같은 주요 플
 ## 사용법
 
 AdGuard / DNS 필터에 추가
-#### [이 링크를 복사](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/7c4380ae896ae56f47a0afd8ec7050cc7d2b32b8/CN%20Tracker%20DNS%20Filter.txt)
+#### [이 링크를 복사](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/main/CN%20Tracker%20DNS%20Filter.txt)
 
 
 ## 문제점
