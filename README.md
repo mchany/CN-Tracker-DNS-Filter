@@ -38,7 +38,6 @@ This filter aims to:
 ## Usage
 
 Add to AdGuard / DNS Filtering
-
 #### [Copy this link](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/CN%20Tracker%20DNS%20Filter.txt)
 
 
