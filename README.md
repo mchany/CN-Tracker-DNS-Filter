@@ -43,17 +43,6 @@ Add to AdGuard / DNS Filtering
 #### [Copy this link](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/main/CN%20Tracker%20DNS%20Filter.txt)
 
 
-## Known Issues
-
-Blocking certain domains may cause partial breakage:
-
-- "qq.com" / "tencent.com" → login or content issues
-- "bdstatic.com" → missing resources
-- redirect domains → links may not resolve properly
-
-Users may need to whitelist specific domains depending on usage.
-
-
 ## Disclaimer
 
 This filter targets specific regional tracking infrastructure.
