@@ -1,6 +1,6 @@
 ! Title: CN Tracker DNS Filter
-! Description: Blocks Chinease trackers (Alibaba, Tencent, etc)
-! Version: 2
+! Description: Blocks Chinese trackers (Alibaba, Tencent, etc)
+! Version: 2.1
 ! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
 ! License: https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/LICENSE
 !
@@ -15,11 +15,7 @@
 ||gm.mmstat.com^
 ||stat.mmstat.com^
 ||wgo.mmstat.com^
-||acjs.aliyun.com^
-||data.aliyun.com^
 ||fourier.taobao.com^
-||tencent.com^
-||qq.com^
 ||gtimg.com^
 ||idqqimg.com^
 ||qpic.cn^
@@ -48,22 +44,18 @@
 ||umengcloud.com^
 ||cnzz.com^
 ||zz.bdstatic.com^
-||bdstatic.com^
 ||hm.baidu.com^
 ||pos.baidu.com^
-||miui.com^
 ||tracking.miui.com^
 ||data.mistat.xiaomi.com^
 ||tendcloud.com^
 ||talkingdata.com^
-||meituan.net^
 ||dianping.com^
 ||byteoversea.com^
 ||ibytedtos.com^
 ||is.snssdk.com^
 ||growingio.com^
 ||growingio.net^
-||tendcloud.com^
 ||talkingdata.net^
 ||umtrack.com^
 ||umeng.co^
@@ -74,8 +66,6 @@
 ||tnc3-aliec2.byteoversea.com^
 ||tnc16-aliec2.byteoversea.com^
 ||tnc0-aliec2.byteoversea.com^
-||yangkeduo.com^
-||pinduoduo.com^
 ||pddpic.com^
 ||pddcdn.com^
 ||pddimg.com^
@@ -85,3 +75,9 @@
 ||api.yangkeduo.com^
 ||log.yangkeduo.com^
 ||monitor.yangkeduo.com^
+||log.toutiao.com^
+||appsflyer.com^
+||sensorsdata.cn^
+||amap.com^
+||isnssdk.com^
+||toutiao.com^
