@@ -42,17 +42,6 @@ AdGuard / DNS 필터에 추가
 #### [이 링크를 복사](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/main/CN%20Tracker%20DNS%20Filter.txt)
 
 
-## 문제점
-
-다음 도메인을 차단할 경우 일부 기능에 문제가 발생할 수 있음:
-
-- "qq.com" / "tencent.com" → 로그인 또는 콘텐츠 문제
-- "bdstatic.com" → 일부 리소스 누락
-- 리디렉션 도메인 → 링크가 정상적으로 열리지 않을 수 있음
-
-사용 환경에 따라 특정 도메인을 허용 목록에 추가해야 할 수 있음.
-
-
 ## 면책 조항
 
 이 필터는 특정 지역의 추적 인프라를 대상으로 함.
