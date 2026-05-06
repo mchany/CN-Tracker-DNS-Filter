@@ -63,14 +63,11 @@
 ||api.yangkeduo.com^
 ||log.yangkeduo.com^
 ||monitor.yangkeduo.com^
-||appsflyer.com^
 ||sensorsdata.cn^
-||amap.com^
 ||isnssdk.com^
 ||toutiao.com^
 ||douyincdn.com^
 ||muscdn.com^
-||adjust.com^
 ||pgdt.gtimg.cn^
 ||log.bytedance.com^
 ||analytics.bytedance.com^
