@@ -43,6 +43,10 @@ Add to AdGuard / DNS Filtering
 #### [Copy this link](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/main/CN%20Tracker%20DNS%20Filter.txt)
 
 
+## License
+[LICENSE](./LICENSE)
+
+
 ## Disclaimer
 
 This filter targets specific regional tracking infrastructure.
