@@ -42,6 +42,10 @@ AdGuard / DNS 필터에 추가
 #### [이 링크를 복사](https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/main/CN%20Tracker%20DNS%20Filter.txt)
 
 
+## 라이센스
+[라이센스](./LICENSE)
+
+
 ## 면책 조항
 
 이 필터는 특정 지역의 추적 인프라를 대상으로 함.
