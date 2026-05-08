@@ -1,6 +1,6 @@
 ! Title: CN Tracker DNS Filter
 ! Description: Blocks Chinese trackers (Alibaba, Tencent, etc)
-! Version: 2.3
+! Version: 2.4
 ! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
 ! License: https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/LICENSE
 !
@@ -12,7 +12,6 @@
 ||adashx.ut.taobao.com^
 ||adashbc.m.taobao.com^
 ||fourier.taobao.com^
-||idqqimg.com^
 ||ad.tencent.com^
 ||ads.tencent.com^
 ||adsmind.gdtimg.com^
@@ -33,8 +32,12 @@
 ||btrace.qq.com^
 ||sdkconfig.ad.qq.com^
 ||cfg.imtt.qq.com^
+||log.idqqimg.com^
+||stats.idqqimg.com^
 ||umeng.com^
 ||umengcloud.com^
+||umtrack.com^
+||umeng.co^
 ||cnzz.com^
 ||zz.bdstatic.com^
 ||hm.baidu.com^
@@ -43,33 +46,37 @@
 ||data.mistat.xiaomi.com^
 ||tendcloud.com^
 ||talkingdata.com^
-||byteoversea.com^
-||ibytedtos.com^
-||is.snssdk.com^
+||talkingdata.net^
 ||growingio.com^
 ||growingio.net^
-||talkingdata.net^
-||umtrack.com^
-||umeng.co^
-||pangle.io^
-||pangleglobal.com^
-||pangolin-sdk-toutiao.com^
-||pddpic.com^
-||pddcdn.com^
-||pddimg.com^
-||pddstatic.com^
-||pddcloud.com^
-||mobile.yangkeduo.com^
-||api.yangkeduo.com^
-||log.yangkeduo.com^
-||monitor.yangkeduo.com^
 ||sensorsdata.cn^
-||isnssdk.com^
-||toutiao.com^
-||douyincdn.com^
-||muscdn.com^
-||pgdt.gtimg.cn^
+||ad.toutiao.com^
+||track.toutiao.com^
+||analytics.toutiao.com^
+||ad.mob.toutiao.com^
+||ads.toutiao.com^
+||effect.bytedance.com^
 ||log.bytedance.com^
 ||analytics.bytedance.com^
 ||mon.bytedance.com^
-||effect.bytedance.com^
+||log.byteoversea.com^
+||track.byteoversea.com^
+||metrics.byteoversea.com^
+||log.ibytedtos.com^
+||track.ibytedtos.com^
+||sdk.pangle.io^
+||api.pangleglobal.com^
+||sdk.pangolin-sdk-toutiao.com^
+||log.douyincdn.com^
+||analytics.douyincdn.com^
+||track.douyincdn.com^
+||log.muscdn.com^
+||track.muscdn.com^
+||log.yangkeduo.com^
+||monitor.yangkeduo.com^
+||track.yangkeduo.com^
+||log.pddcdn.com^
+||track.pddcdn.com^
+||stats.pddcdn.com^
+
+||log.pddcloud.com^
