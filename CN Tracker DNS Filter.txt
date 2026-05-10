@@ -1,6 +1,6 @@
 ! Title: CN Tracker DNS Filter
 ! Description: Blocks Chinese trackers (Alibaba, Tencent, etc)
-! Version: 2.4
+! Version: 2.5
 ! Homepage: https://github.com/mchany/CN-Tracker-DNS-Filter
 ! License: https://raw.githubusercontent.com/mchany/CN-Tracker-DNS-Filter/refs/heads/main/LICENSE
 !
@@ -78,5 +78,16 @@
 ||log.pddcdn.com^
 ||track.pddcdn.com^
 ||stats.pddcdn.com^
-
 ||log.pddcloud.com^
+||volceapplog.com^
+||mssdk.bytedance.com^
+||pangolin-sdk-toutiao-b.com^
+||monsetting.toutiao.com^
+||xlog.byteoversea.com^
+||applog.uc.cn^
+||gjapplog.uc.cn^
+||adash.man.aliyuncs.com^
+||arms-retcode.aliyuncs.com^
+||sdk.open.talkingdata.com^
+||ta.qq.com^
+||tpstelemetry.tencent.com^
