@@ -1,6 +1,7 @@
 # CN Tracker DNS Filter
 
 [🇰🇷한국어/Korean](./README.ko.md)
+# [WE MIGRATED TO CODEBERG. CLICK THIS LINK FOR UPDATES](https://codeberg.org/mchany/CN-Tracker-DNS-Filter)
 
 
 ## Overview
