@@ -1,6 +1,7 @@
 # CN Tracker DNS Filter
 
 [🇺🇸English/영어](./README.md)
+# [CODEBERG로 이전했습니다. 최신 업데이트를 위해선 여길 클릭하세요.](https://codeberg.org/mchany/CN-Tracker-DNS-Filter)
 
 ## 개요
 
